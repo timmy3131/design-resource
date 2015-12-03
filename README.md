@@ -45,7 +45,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Adobe Typekit](https://typekit.com/)
 
 
-## Choosing Colors
+## Colors
 
 The easiest way to build a color pallete is by sampling colors from an existing image.
 
