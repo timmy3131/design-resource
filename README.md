@@ -71,7 +71,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + Google Glass Guidelines
 + Android Wear Guidelines
 
--------------
+
 # Design Inspirations
 
 ## Blogs
@@ -86,7 +86,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 ## Community
 
 
----------------
+
 # Mobile app designs
 
 + http://beautifulpixels.com/
