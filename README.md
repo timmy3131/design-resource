@@ -94,6 +94,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [land-book](http://land-book.com/)  LandBook 专门收集了优秀的 landing page 页面，品类齐全
 + [call to idea](http://www.calltoidea.com/) 一个以类别为线索收集各种设计的网站，专业，精美，是激发灵感的好地方。把同类别的优秀设计统观一遍，你就能发现很多共通之处
 
++ [google art-project](https://www.google.com/culturalinstitute/project/art-project?hl=en-gb) 
 
 # Mobile app designs
 
@@ -153,11 +154,37 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Chinese Sketch website](http://sketchcn.com/)
 
 ### Sketch Resources
++ [学习 sketch 的教程](http://www.sketchapp.com/learn/)
 + [sketch中国](http://www.sketchs.cn/index.html)
 + http://www.niudana.com/#sketch
 + http://bohemiancoding.com/sketch/resources/
 + http://www.sketchappsources.com/all-free-sources.html
 
 ## Photoshop
+
+##移动端利器（iOS为主）
+
++ Design Hunt 有点像是为设计师量身定做的 Feedly。整合了 Dribbble, Wired, Fast Company, Vimeo 等众多大咖小咖渠道的信息，以 News, Article, Inspiration, Typography(版式设计), Apple, iOS App, Product, Architecture 等关键词进行分类。
+
++ ArtStation － CG 大触聚集地
+
++ Draw Cartoons（Android）－ 人人都能做动画
+
+Art & Culture（Android） － 人类历史上最重的 52k
+
+Design Hunt（iOS） － 设计师每日所需，都在这里了
+
+Weebly － 免费搭建自己的主页，还可以免费获得带有weebly 后缀的域名，如果你想自己开一个博客，不需要会 HTML 也可以拖拖拽拽完成自己的静态页面设计。（和 spring 很像）
+
+Weebly 是一款简单易用的建站工具，不过想充分发挥Weebly 的性能，还是在web端操作比较好，移动端可以用来辅助。你可以在Web上建立博客、主页或店铺网站，通过移动端监控或添加内容，所以我们要把这个工具在各个平台联系起来看。
+
+Napkin Sketch（iOS）直接在 iPhone 上进行简单的界面设计，无论你是站在地铁里、坐在餐厅里还是躺在床上，随时随地都可以将脑海中灵感用 Napkin Sketch 迅速转化为 Demo，不再错过任何一闪而过的 idea
+
++ ICNS（iOS）设计完一款图标，想看一下图标在手机上的显示效果，你是选择 P 一个加图标的主屏再投到手机上查看，还是直接在大脑里臆想一下就完事？不过现在有更好的选择，ICNS 是一款为设计师准备的图标演示工具。通过连接 Dropbox，可以将你的图标直接显示在 ICNS 模拟的主屏上，非常方便有木有！
+
+
++ Assembly（iOS）－ 人人都会用的矢量软件
+
++ Inspr（iOS）－ 移动端原型设计利器，相比Napkin，inspr 除了有基本的图片、文字、形状等元素，还内置了多种标准的 iOS 组件可以直接使用。
 
 # Book List
