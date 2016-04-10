@@ -106,6 +106,11 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 
 + [方酷](http://www.fondcool.com/)  国内手机 ui 资源下载，主要是psd资源为主
 
+## GoodApp
++ [设计宝](http://www.shejibao.com/?cid=10200020)汇集国内的专业化设计类人才,内容上涉及到十二个设计领域,涵盖十项专业,五十个子类
+
++ [嘿设汇](http://www.hisihi.com/)  嘿设汇提供十万套设计作业源文件
+
 
 + [Pattrns](http://www.pttrns.com/)，按模式提供优秀应用的截图。主要为 iPhone, iPad 和 iOS7 三大类
 + [Mobile Patterns](http://www.mobile-patterns.com/)，移动设计模式。包括 iPhone 和 Android
