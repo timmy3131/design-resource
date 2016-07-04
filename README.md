@@ -43,7 +43,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 
 + [Google Fonts](https://www.google.com/fonts) 
 
-+ [Adobe Typekit](https://typekit.com/)
++ [Adobe Typekit](https://typekit.com)
 + [W3C关于纵书的规范](http://www.w3.org/TR/css3-writing-modes/)
 
 
