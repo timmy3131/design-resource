@@ -57,6 +57,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Brand Colors](http://brandcolors.net/)
 
 ##  Guidelines
++ [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
 
 + iOS Human Interface Guidelines：Designing for iOS 7★（iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响）
 + Safari Web Content Guide
