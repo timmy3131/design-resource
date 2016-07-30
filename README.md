@@ -86,7 +86,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + http://www.sketchcasts.net/episodes
 
 ## Community 
-**国际上前沿的设计资源才是你应该看看的啊喂！不要在看国内某某搬运过来的啦~**
+**国际上前沿的设计资源才是你应该看看的啊喂！不要再看国内某某搬运过来的啦~**
 + [Dribbble](https://dribbble.com/) 在设计师中非常流行的一个分享设计的社区，每次打开都会有许多让人惊叹的设计。ps求大神赠送邀请码呀~
 + [Behance](https://www.behance.net/) 已经被Adobe收购，更专业的设计网站。
 + [Siiimple](http://www.siiimple.com/) minimalist css gallery
