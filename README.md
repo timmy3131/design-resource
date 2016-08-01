@@ -22,7 +22,12 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Pixabay](www.pixabay.com) 有些赞助商的图片会在网站上显示，以获取对Pixabay运营的资金支持，这些图片会带有Shutterstock的水印。
 
 + [depositphotos](http://depositphotos.com/)
-  
+
++ [THE STOCKS](http://thestocks.im/)
+
++ [The Big Picture - The Boston Globe](www.bostonglobe.com/news/bigpicture)
+
++ [Most Popular Photos on 500px Right Now](https://500px.com/popular)
   Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
 
 
@@ -33,6 +38,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
++ https://thenounproject.com/
 
 ## Fonts
 
@@ -55,6 +61,8 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
 
 + [Brand Colors](http://brandcolors.net/)
+
++ [NIPPON COLORS - 日本の伝統色](http://nipponcolors.com/)
 
 ##  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
