@@ -21,9 +21,9 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 
 + [Pixabay](www.pixabay.com) 有些赞助商的图片会在网站上显示，以获取对Pixabay运营的资金支持，这些图片会带有Shutterstock的水印。
 
-+ [depositphotos](http://depositphotos.com/)
-  
-  Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
++ [depositphotos](http://depositphotos.com/) Millions of high-quality royalty-free stock images and high-definition footage at the best prices to fill all your creative needs.
+
++ [Pexel](https://www.pexels.com/) Tons of great, high quality stock photos that are easily searchable.
 
 
 
