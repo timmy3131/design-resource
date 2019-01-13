@@ -33,6 +33,7 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + http://www.streamlineicons.com/
 + http://www.pixeden.com/media-icons/tab-bar-icons-ios-7-vol5
 + https://dribbble.com/shots/1344983-Simple-Line-Icons-100-free-icons-Ai-Eps-Svg-Psd
++ https://iconmonstr.com/
 
 ## Fonts
 
@@ -55,6 +56,14 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
 
 + [Brand Colors](http://brandcolors.net/)
+
++ [Color Hunt](https://colorhunt.co)
+
+Here are a few gradient sites :
+
++ [WebGradients](https://webgradients.com)
+
++ [uigradients](https://uigradients.com/#Socialive)
 
 ##  Guidelines
 + [iOS Human Interface Guidelines10](https://developer.apple.com/ios/human-interface-guidelines/)
